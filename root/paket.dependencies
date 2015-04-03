@@ -1,0 +1,13 @@
+framework: net45
+source https://nuget.org/api/v2
+
+nuget NUnit.Runners
+nuget NUnit
+nuget Should
+nuget jQuery
+nuget jQuery.Validation
+nuget Microsoft.AspNet.Mvc
+nuget Microsoft.AspNet.Razor
+nuget Microsoft.AspNet.WebPages
+nuget Microsoft.jQuery.Unobtrusive.Validation
+nuget Microsoft.Web.Infrastructure
